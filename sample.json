@@ -1,0 +1,45 @@
+{
+    "type": "sample",
+    "test_case_list": [
+        {
+            "rank_size": 4,
+            "plane_num": 2
+        },
+        {
+            "rank_size": 4,
+            "plane_num": 6
+        },
+        {
+            "rank_size": 5,
+            "plane_num": 2
+        },
+        {
+            "rank_size": 5,
+            "plane_num": 4
+        },
+        {
+            "rank_size": 10,
+            "plane_num": 4
+        },
+        {
+            "rank_size": 10,
+            "plane_num": 10
+        },
+        {
+            "rank_size": 32,
+            "plane_num": 6
+        },
+        {
+            "rank_size": 33,
+            "plane_num": 4
+        },
+        {
+            "rank_size": 64,
+            "plane_num": 8
+        },
+        {
+            "rank_size": 128,
+            "plane_num": 18
+        }
+    ]
+}
